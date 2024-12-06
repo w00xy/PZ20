@@ -1,0 +1,3 @@
+Child: Antonio VictorovichAge: 12Weight: 444height: 120studyPlace: School
+Adult: German Germanovich | Age: 28 | Weight: 120 | height: 190 | workPlace: Waiter
+Student: Full GoatAge: 16Weight: 44height: 180studyPlace: RKSIworkPlace: DSAlivePlace: 2
